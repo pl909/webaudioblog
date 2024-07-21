@@ -2,7 +2,8 @@
 
 This is a simple Rust Actix web application that allows users to upload the audio file of a conversation/interview and get a blog summarizing what was discussed. 
 
-Find the website here: https://blogger.sanjeev.one/
+Find the website here: 
+https://audio-to-blog.vercel.app
 
 ## Demo
 
